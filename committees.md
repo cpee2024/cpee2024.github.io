@@ -38,7 +38,6 @@ intro_image_hide_on_mobile: false
 * M. Andriychuk – Lviv Polytechnic National University (Ukraine)
 * M. Benova – University of Zilina (Slovakia)
 * Yu. Bobalo – Lviv Polytechnic National University (Ukraine)
-* S. Bolkowski – Warsaw University of Technology (Poland)
 * K. Capova – University of Zilina (Slovakia)
 * B. Chaber – Warsaw University of Technology (Poland)
 * I. Doležel – University of West Bohemia (Czech Republic)
