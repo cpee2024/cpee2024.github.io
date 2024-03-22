@@ -15,3 +15,7 @@ civilization. Which means you don't have to make a trip to the end of the world 
 The conference center is located in the Śnieżnik Massif, just 7 km from Czarna Góra, less than 120 km from
 Wrocław, 300 km from Poznań, Kraków or Žilina, and a little further from Warsaw. The resort also has a Wellness &
 SPA area, which you will be able to use after plenary and poster sessions.
+
+![Holimo Hotel entrance](/images/photos/holimo-hotel-w-gorach-z-basenem-stronie-slaskie-3.jpg){:class="full-width"}
+*A town square in Grybów*
+
