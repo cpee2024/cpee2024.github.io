@@ -2,7 +2,7 @@
 title: CPEE 2024
 layout: home
 description: Conference on Computational Problems in Electrical Engineering
-intro_image: "images/photos/stara-morawa.jpg"
+intro_image: "images/photos/masyw-snieznika.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: false
