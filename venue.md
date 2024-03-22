@@ -17,5 +17,5 @@ Wrocław, 300 km from Poznań, Kraków or Žilina, and a little further from War
 SPA area, which you will be able to use after plenary and poster sessions.
 
 ![Holimo Hotel entrance](/images/photos/holimo-hotel-w-gorach-z-basenem-stronie-slaskie-3.jpg){:class="full-width"}
-*A town square in Grybów*
+*Holimo Hotel entrance*
 
