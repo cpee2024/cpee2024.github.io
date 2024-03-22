@@ -24,7 +24,7 @@ All slides, posters should be prepared in English language.
 
 # Registration
 
-In order to participate in our event you will have to register in [the conference system](...).
+In order to participate in our event you will have to register in [the conference system](to be announced shortly).
 
 # Submission
 
