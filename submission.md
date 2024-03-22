@@ -41,8 +41,10 @@ The early-bird fee is available untill *30.06.2024*.
 |-----------------------|------------|-------------|
 | Participation type    | Early-bird | Regular fee |
 |-----------------------|------------|-------------|
-| In-person participant | 500 EUR    | 550 EUR     |
-| Online participant    |            | 250 EUR     |
+| In-person participant | 600 EUR    | 650 EUR     |
+| Online participant    |            | 300 EUR     |
+| Additional submission |            | 300 EUR     |
+| Accompanying person   | 300 EUR    | 350 EUR     |
 |-----------------------|------------|-------------|
 
 The fee for in-person participation covers accomodation, coffee breaks,
@@ -58,6 +60,6 @@ For the bank transfer please use the following data:
 
 - Name of the bank: Bank PEKAO S.A.  IV O/Warszawa, SWIFT: PKOPPLPW
 - Address:
-Politechnika Warszawska, ul. Noakowskiego 18/20, 00-668 Warszawa
-- Account number (IBAN), payment in EUR: PL 04 1240 2092 9522 1042 0100 0000
-- Bank transfer title: CPEE 2023, the name of the participant.
+Fundacja Politechniki Warszawskiej, ul. Polna 50, 00-644 Warszawa
+- Account number (IBAN), payment in EUR: PL 33 1240 6003 1111 0010 6526 7849
+- Bank transfer title: CPEE 2024, the name of the participant.
