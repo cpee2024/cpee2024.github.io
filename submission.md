@@ -58,7 +58,6 @@ separately at 25EUR per each black and white page.
 
 For the bank transfer please use the following data:
 
-- Name of the bank: Bank PEKAO S.A.  IV O/Warszawa, SWIFT: PKOPPLPW
 - Address:
 Fundacja Politechniki Warszawskiej, ul. Polna 50, 00-644 Warszawa
 - Account number (IBAN), payment in EUR: PL 33 1240 6003 1111 0010 6526 7849
