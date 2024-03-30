@@ -24,14 +24,14 @@ All slides, posters should be prepared in English language.
 
 # Registration
 
-In order to participate in our event you will have to register in [the conference system](to be announced shortly).
+In order to participate in our event you will have to register in [the conference system](https://indico.cern.ch/event/1399079/registrations/104589/).
 
 # Submission
 
 You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
 Each submission will be evaluated by reviewers.
 
-You can submit your paper after registration in [our conference system](...).
+You can submit your paper after registration in [our conference system](https://indico.cern.ch/e/cpee2024).
 After registering in the `indico.cern.ch` service you can register at our event, and submit a new abstract.
 
 # Payment
