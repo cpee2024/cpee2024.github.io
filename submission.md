@@ -60,5 +60,6 @@ For the bank transfer please use the following data:
 
 - Address:
 Fundacja Politechniki Warszawskiej, ul. Polna 50, 00-644 Warszawa
-- Account number (IBAN), payment in EUR: PL 33 1240 6003 1111 0010 6526 7849
+- Account number (IBAN), payment in **PLN**: PL 33 1240 6003 1111 0010 6526 7849
 - Bank transfer title: CPEE 2024, the name of the participant.
+**Please note that the bank account above is for transfers in PLN only**.
