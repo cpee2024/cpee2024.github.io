@@ -16,7 +16,7 @@ Poland. The conference will be held on 10-13 September 2024.
 
 # Important dates
 
-* **15.06.2024**: 1-page abstract submission deadline (**final extension**);
+* **15.06.2024**: 1-page abstract submission deadline;
 * **22.06.2024**: Acceptance notification;
 * **30.06.2024**: Early-bird fee;
 * **31.08.2024**: Full paper submission and registration;
