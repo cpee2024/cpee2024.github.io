@@ -21,3 +21,5 @@ Poland. The conference will be held on 10-13 September 2024.
 * **28.07.2024**: Early-bird fee;
 * **31.08.2024**: Full paper submission;
 * **10-13.09.2024**: Conference date. 
+
+General conference schedule published! https://indico.cern.ch/event/1399079/timetable/
