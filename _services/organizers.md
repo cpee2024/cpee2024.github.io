@@ -9,4 +9,4 @@ in cooperation with:
 * University of West Bohemia, Czechia,
 * University of Žilina, Slovakia,
 * Lviv Polytechnic National University, Ukraine,
-* MESco Sp. z o. o. (ANSYS Channel partner), Poland.
+* ASTAT sp. z o. o., Poland.
