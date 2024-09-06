@@ -9,4 +9,4 @@ in cooperation with:
 * University of West Bohemia, Czechia,
 * University of Žilina, Slovakia,
 * Lviv Polytechnic National University, Ukraine,
-* ASTAT sp. z o. o., Poland.
+* [ASTAT sp. z o. o.](http://astat.pl), Poland.
