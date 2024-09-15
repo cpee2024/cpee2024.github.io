@@ -39,7 +39,7 @@ After registering in the `indico.cern.ch` service you can register at our event,
 The publication after the conference is planned in either IEEE Xplore or Przegląd Elektrotechniczny.
 We advice to use the corresponding templates:
 * IEEE Xplore [LaTeX / Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn),
-* Przegląd Elektrotechniczny [Word](/assets/PE-word.doc) / [LaTex](/assets/PE-latex.zip).
+* Przegląd Elektrotechniczny [Word](/assets/PE-word.doc) / [LaTeX](/assets/PE-latex.zip).
 
 # Payment
 
