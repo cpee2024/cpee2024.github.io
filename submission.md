@@ -34,6 +34,13 @@ Each submission will be evaluated by reviewers.
 You can submit your paper after registration in [our conference system](https://indico.cern.ch/e/cpee2024).
 After registering in the `indico.cern.ch` service you can register at our event, and submit a new abstract.
 
+# Publication
+
+The publication after the conference is planned in either IEEE Xplore or Przegląd Elektrotechniczny.
+We advice to use the corresponding templates:
+* IEEE Xplore [LaTeX / Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn),
+* Przegląd Elektrotechniczny [Word](/assets/PE-word.doc) / [LaTex](/assets/PE-latex.zip).
+
 # Payment
 
 The early-bird fee is available untill *30.06.2024*.
